@@ -1,16 +1,7 @@
-# password_generator
+<img width="181" alt="easy" src="https://user-images.githubusercontent.com/92240582/147801142-aa855d52-100c-4de0-9958-4cb7cb095221.PNG">
 
-A new Flutter project.
+Hard
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="182" alt="hard" src="https://user-images.githubusercontent.com/92240582/147801143-04298636-0330-41ee-8e5d-957a34b5b602.PNG">
+# Final_Project
+Final  Project for Lab
